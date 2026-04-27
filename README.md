@@ -2,7 +2,7 @@
 
 A simple AI-powered chatbot built by Kartik Pravin Pagey on Cloudflare's platform using Workers AI, Durable Objects, and Pages.
 
-**🚀 Live Demo**: 
+**🚀 Live Demo**: https://aichatbot.kartik-pagey-dev.workers.dev/
 
 ## Features
 
