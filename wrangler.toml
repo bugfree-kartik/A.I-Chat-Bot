@@ -1,0 +1,19 @@
+name = "azeez-ai-chatbot"
+main = "src/index.js"
+compatibility_date = "2024-04-03"
+
+[ai]
+binding = "AI"
+
+[[durable_objects.bindings]]
+name = "CHAT_MEMORY"
+class_name = "ChatMemory"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["ChatMemory"]
+
+# Assets configuration for Workers
+[assets]
+directory = "./public"
+binding = "ASSETS"
