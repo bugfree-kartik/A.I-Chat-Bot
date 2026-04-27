@@ -1,8 +1,8 @@
 # AI Chatbot on Cloudflare
 
-A simple AI-powered chatbot built by Azeez Moiz Dandawala on Cloudflare's platform using Workers AI, Durable Objects, and Pages.
+A simple AI-powered chatbot built by Kartik Pravin Pagey on Cloudflare's platform using Workers AI, Durable Objects, and Pages.
 
-**🚀 Live Demo**: https://azeez-ai-chatbot.azeezmoiz-dandawala.workers.dev
+**🚀 Live Demo**: 
 
 ## Features
 
@@ -46,37 +46,6 @@ A simple AI-powered chatbot built by Azeez Moiz Dandawala on Cloudflare's platfo
 - Node.js and npm
 - Cloudflare account
 - Wrangler CLI installed
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/azeez-72/cf_ai_project.git
-cd cf_ai_project
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Authenticate with Cloudflare:
-```bash
-npx wrangler login
-```
-
-4. Configure your environment:
-   - Update `wrangler.toml` with your account details
-   - Ensure Workers AI is enabled for your account
-
-### Local Development
-
-Start the development server:
-```bash
-npm run dev
-```
-
-The application will be available at `http://localhost:8787`
 
 ### Deployment
 
@@ -171,9 +140,9 @@ cf_ai_project/
 
 ## Author
 
-**Built by**: Azeez Moiz Dandawala  
-**Email**: azeezmoiz.dandawala@stonybrook.edu  
-**GitHub**: https://github.com/azeez-72
+**Built by**: Kartik Pravin Pagey
+**Email**: kartikpravin.pagey@stonybrook.edu  
+**GitHub**: https://github.com/bugfree-kartik
 
 ## License
 
