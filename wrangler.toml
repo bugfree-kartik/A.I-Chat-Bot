@@ -1,4 +1,4 @@
-name = "Kartik-ai-chatbot"
+name = "kartik-ai-chatbot"
 main = "src/index.js"
 compatibility_date = "2024-04-03"
 
